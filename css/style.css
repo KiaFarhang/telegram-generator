@@ -1136,6 +1136,9 @@ textarea {
     width: 100%;
     height: 5em;
 }
+input {
+    padding: .5em;
+}
 input + input {
     float: right;
 }
