@@ -1,1 +1,1 @@
-This is a template I use when starting new web development projects. Includes a basic index.html and stylesheet with Bootstrap's grid system and a CSS reset.
+Simple telegram generator. Using JavaScript, changes all periods to STOP, all question marks to QUERY, and outputs entire string in caps. 
