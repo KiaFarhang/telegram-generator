@@ -1124,6 +1124,7 @@ ol {
 /*Site-wide styles*/
 
 body {
+    background: url('../paper.png');
     font-size: 16px;
     margin: 0 auto;
     width: 90%;
